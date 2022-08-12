@@ -1,6 +1,6 @@
 # Titanic_Data
 
-1.运行titanic_analysis.py 运行结果会输出到 re.csv
+说明：运行titanic_analysis.py 根据train.csv的已知数据训练决策树预测test.csv的泰坦尼克号生存情况运行结果会输出到 re.csv
 
 数据集中的字段描述：
 PassengerId	乘客编号
